@@ -1,0 +1,10 @@
+* leveldb
+
+LevelDB bindings for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/death/leveldb.git   |
+| commit  | 66970cf  |
+| systems | leveldb |
+|---------+-------------------------------------------|
+
